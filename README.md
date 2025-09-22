@@ -1,2 +1,16 @@
-# putty-documentation-case
-Case de documentação técnica: explicação, tutorial e referência sobre o PuTTY.
+# PuTTY Documentation Case
+
+Este repositório contém o case de documentação técnica desenvolvido para o processo seletivo.  
+A entrega foi feita em **dois formatos**:
+
+- [`putty_documentation.md`](putty_documentation.md) → versão em Markdown, ideal para colaboração e versionamento.
+- [`putty_documentation.pdf`](putty_documentation.pdf) → versão em PDF, voltada para leitura formal.
+
+## Estrutura
+- **Explicação**: visão geral do PuTTY e suas funcionalidades.
+- **Tutorial**: guia passo a passo para iniciar uma conexão SSH.
+- **Referência**: tabela com campos de configuração e descrições.
+
+---
+Escrito por Amanda Veríssimo
+
