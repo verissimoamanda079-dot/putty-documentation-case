@@ -3,7 +3,7 @@
 Este repositório contém o case de documentação técnica desenvolvido para o processo seletivo.  
 A entrega foi feita em **dois formatos**:
 
-- [`putty_documentation.md`](putty_documentation.md) → versão em Markdown, ideal para colaboração e versionamento.
+- [`putty_documentation_professional (1).md`](putty_documentation.md) → versão em Markdown, ideal para colaboração e versionamento.
 - [`putty_documentation.pdf`](putty_documentation.pdf) → versão em PDF, voltada para leitura formal.
 
 ## Estrutura
