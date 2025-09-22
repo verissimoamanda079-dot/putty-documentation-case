@@ -47,6 +47,7 @@ Essa ferramenta garante eficiência e segurança no gerenciamento remoto de serv
 - Utilize senhas fortes ou chaves SSH para maior segurança.  
 - Evite usar a conta *root* diretamente; prefira usuários com permissões adequadas.  
 - Salve sessões em *Saved Sessions* para facilitar reconexões futuras.
+- Ao conectar pela primeira vez, o PuTTY pedirá para aceitar a chave do servidor
 
 ## Referência – Parâmetros de conexão SSH
 
