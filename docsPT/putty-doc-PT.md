@@ -50,6 +50,7 @@ Essa ferramenta garante eficiência e segurança no gerenciamento remoto de serv
 - Utilize senhas fortes ou chaves SSH para maior segurança.  
 - Evite usar a conta *root* diretamente; prefira usuários com permissões adequadas.  
 - Salve sessões em *Saved Sessions* para facilitar reconexões futuras.
+- Novas conexões solicitam aceite à chave do servidor.
 
 ## Referência – Parâmetros de conexão SSH
 
