@@ -6,6 +6,8 @@
 ## Descrição
 O PuTTY é um emulador de terminal gratuito e de código aberto que permite conexões remotas seguras usando o protocolo SSH (*Secure Shell*). Ele é amplamente utilizado em ambientes Windows para acessar servidores Linux e outros dispositivos de forma segura.
 
+PuTTY foi originalmente escrito para o Microsoft Windows, mas foi portado para vários outros sistemas operacionais. Portes oficiais só estão disponíveis para algumas plataformas Unix, e em desenvolvimento para o clássico Mac OS e Mac OS X, e as versões não-oficiais foram desenvolvidas para plataformas como Symbian OS e Windows Mobile. PuTTY foi escrito e é mantido principalmente por Simon Tatham.
+
 Com o PuTTY, os usuários podem:
 - Conectar-se a servidores via SSH com autenticação segura.
 - Salvar sessões para reutilização futura.
